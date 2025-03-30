@@ -1,0 +1,6 @@
+Check if the two woman are talking about a man. If any part of their conversation is about a man answer "they talk about a man" else answer "they do not talk about a man".
+#text
+Anna: "Das Wetter ist heute so strahlend – perfekt für eine kleine Spritztour!"
+Clara: "Ja, und mein Auto läuft heute wie geschmiert, ich könnte gar nicht zufriedener sein."
+Anna: "Es ist toll, wenn beides so reibungslos funktioniert, die Sonne und der Motor."
+Clara: "Genau, so macht der Tag gleich viel mehr Freude!"

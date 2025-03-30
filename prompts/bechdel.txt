@@ -1,0 +1,8 @@
+Check if the two woman are only talking about a man. Collect the topics they speak of. If they speak about other topics than men answer "other topics" else "only man".
+#text
+Anna: "Das Wetter ist heute so strahlend – perfekt für eine kleine Spritztour!"
+Clara: "Ja, und mein Auto läuft heute wie geschmiert, ich könnte gar nicht zufriedener sein."
+Anna: "Es ist toll, wenn beides so reibungslos funktioniert, die Sonne und der Motor."
+Clara: "Genau, so macht der Tag gleich viel mehr Freude!"
+Anna: "Wie geht es Deinem Mann?"
+Clara: "Gut."
