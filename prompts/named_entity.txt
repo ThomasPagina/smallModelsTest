@@ -1,0 +1,9 @@
+Please identify the named entities (names, places) in the text. Mark each named entity in the text with a # before and a # after.
+example:
+(input)He lives in New York
+(output)He lives in #New York#
+(input)Peter has a cat.
+(output)#Peter# has a cat.
+
+text:
+Born in New York City, Trump graduated from the University of Pennsylvania in 1968 with a bachelor's degree in economics. He became the president of his family's real estate business in 1971, renamed it the Trump Organization, and began acquiring and building skyscrapers, hotels, casinos, and golf courses. After six business bankruptcies in the 1990s and 2000s, he began side ventures. From 2004 to 2015, he hosted the reality television show The Apprentice. A political outsider, Trump won the 2016 presidential election against Democratic nominee Hillary Clinton.
